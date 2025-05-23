@@ -44,3 +44,4 @@
     - Array untuk menampung input karakter dari pengguna
      
 ## Link Video Demo
+https://youtu.be/d-llTpHuFus?si=4OQr6cUJXViUnjSs
