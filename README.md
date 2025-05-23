@@ -11,7 +11,7 @@
 - Program Studi: Pendidikan Sistem dan Teknologi Informasi
 
 ## 💡Permintaan Program
-> "Simple password checker"
+> "Kakak ingin dibuatkan program simple password checker"
 
 ## 🧠Penjelasan Program
  - Bahasa pemrograman yang digunakan: C
